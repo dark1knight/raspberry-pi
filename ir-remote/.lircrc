@@ -1,0 +1,56 @@
+begin
+    button = KEY_VOLUMEDOWN
+    prog = playback
+    config = vol_down
+end
+begin
+    button = KEY_VOLUMEUP
+    prog = playback
+    config = vol_up
+end
+begin
+    button = KEY_PLAYPAUSE
+    prog = playback
+    config = play_pause
+end
+begin
+    button = KEY_NEXT
+    prog = playback
+    config = next
+end
+begin
+    button = KEY_PREVIOUS
+    prog = playback
+    config = previous
+end
+
+begin
+    button = KEY_1
+    prog = playback
+    config = 1
+end
+begin
+    button = KEY_2
+    prog = playback
+    config = 2
+end
+begin
+    button = KEY_3
+    prog = playback
+    config = 3
+end
+begin
+    button = KEY_4
+    prog = playback
+    config = 4
+end
+begin
+    button = KEY_5
+    prog = playback
+    config = 5
+end
+begin
+    button = KEY_6
+    prog = playback
+    config = 6
+end
